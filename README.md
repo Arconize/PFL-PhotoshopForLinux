@@ -1,4 +1,4 @@
-# Photoshop on Linux (Wine) Auto-Installer
+# PFL - Photoshop For Linux (Wine) Auto-Installer
 
 A bash script to automate the installation of Adobe Photoshop (2021/2022) on Linux using Wine.
 
