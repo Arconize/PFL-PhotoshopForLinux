@@ -42,9 +42,9 @@ chmod +x ps-setup.sh
 
 **4. Install Photoshop:** Once the setup is complete, run the Adobe installer through the script.
 
-bash
-
+```bash
 ./ps-setup.sh --install /path/to/your/Set-up.exe
+```
 
 **5. Apply Post-Install Patch (CRITICAL):** After the installation is completely finished, you **must** run the patch command. This replaces the crashing CEF web helpers with a harmless dummy file, preventing the app from freezing when opening files.
 
