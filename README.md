@@ -7,7 +7,7 @@ With the recent removal of `wine64` and broken resource links in older scripts (
 
 ## Screenshot
 
-(Photoshop)[https://github.com/Arconize/PFL-PhotoshopForLinux/Screenshots/photoshop.png]
+[Photoshop](https://github.com/Arconize/PFL-PhotoshopForLinux/blob/main/screenshots/photoshop.png)
 
 ## Features
 
