@@ -4,6 +4,11 @@ A bash script to automate the installation of Adobe Photoshop (2021/2022) on Lin
 
 With the recent removal of `wine64` and broken resource links in older scripts (like gmanka), installing Photoshop has become a nightmare. This script provides a clean, up-to-date, and stable method to get Photoshop running smoothly on modern Linux distributions without using custom Wine patches.
 
+
+## Screenshot
+
+(Photoshop)[https://github.com/Arconize/PFL-PhotoshopForLinux/Screenshots/photoshop.png]
+
 ## Features
 
 - **Distro Agnostic**: Automatically detects and installs dependencies for Arch, Ubuntu/Debian, and Fedora.
